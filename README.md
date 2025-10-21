@@ -3,7 +3,7 @@
 Hi! I'm Tengku Mohamad Haikal, a student in the **WIF3005 Software Maintenance and Evolution** course.  
 I’m excited to learn about real-world practices in software maintenance, understanding how to manage, refactor, and evolve legacy systems efficiently. I also look forward to gaining hands-on experience with version control and collaborative maintenance workflows.
 
-![My Image](images/profile.jpg)  <!-- Replace with your image path -->
+![My Image](profile.jpg)  <!-- Replace with your image path -->
 
 ## GitHub Profile
 
